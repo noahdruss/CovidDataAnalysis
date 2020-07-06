@@ -14,7 +14,7 @@ Correlation Matrix:
 
 This correlation matrix shows that all hapiness factors used (GDP per capita, Social support, Healthy life expectancy, and reedom to make life choices) are all positively correlated with infection rate of Covid19 as of May 2020.
 
-Correlation visualized:
+**Correlation visualized:**
 
 GDP vs Max Infection Rate
 ![gdpvsinfrates](https://user-images.githubusercontent.com/46460204/86638471-56809d80-bfa5-11ea-9dd3-2300db506930.JPG)
