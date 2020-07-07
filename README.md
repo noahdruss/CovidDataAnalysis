@@ -1,10 +1,10 @@
 # CovidDataAnalysis
 
-Goal: Visualize corrilation between Covid19 infection rate and country hapiness factors.
+**Goal:** Visualize corrilation between Covid19 infection rate and country hapiness factors.
 
-Libraries used: pandas, numpy, seaborn, matplotlib
+**Libraries used:** pandas, numpy, seaborn, matplotlib
 
-Datasets used: Worldwide Hapiness Report, Covid19 Confirmed Cases (both as of May 2020) 
+**Datasets used:** Worldwide Hapiness Report, Covid19 Confirmed Cases (both as of May 2020) 
 
 
 **Results:**
